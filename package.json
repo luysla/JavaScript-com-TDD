@@ -1,0 +1,23 @@
+{
+  "name": "jscomtdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luysla/JavaScript-com-TDD.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Dyana Tavares <dyana.tavares1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luysla/JavaScript-com-TDD/issues"
+  },
+  "homepage": "https://github.com/luysla/JavaScript-com-TDD#readme"
+}
